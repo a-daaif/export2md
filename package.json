@@ -1,0 +1,13 @@
+{
+  "name": "export2md",
+  "version": "1.0.0",
+  "description": "Exporte la structure d'un projet en Markdown",
+  "main": "index.js",
+  "bin": {
+    "export2md": "./index.js"
+  },
+  "preferGlobal": true,
+  "keywords": ["markdown", "documentation", "project-structure"],
+  "author": "Votre nom",
+  "license": "MIT"
+}
